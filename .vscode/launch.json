@@ -1,0 +1,36 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "listadoContenido",
+            "request": "launch",
+            "mainClass": "listadoContenido",
+            "projectName": "Ej1-1_1f6f193f"
+        },
+        {
+            "type": "java",
+            "name": "copiaContenido",
+            "request": "launch",
+            "mainClass": "copiaContenido",
+            "projectName": "Ej1-1_1f6f193f"
+        },
+        {
+            "type": "java",
+            "name": "copiaContenido",
+            "request": "launch",
+            "mainClass": "copiaContenido",
+            "projectName": "Ej1-1 Listado de ficheros_b040d225"
+        },
+        {
+            "type": "java",
+            "name": "Ejecutar copiaContenido",
+            "request": "launch",
+            "mainClass": "copiaContenido",
+            "args": [
+                "."
+            ],
+            "cwd": "${workspaceFolder}/src"
+        }
+    ]
+}
